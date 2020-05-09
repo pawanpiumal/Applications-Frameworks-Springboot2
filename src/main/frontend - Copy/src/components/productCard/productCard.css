@@ -1,0 +1,10 @@
+p{
+    margin-bottom: 0;
+}
+.card-text{
+    margin-bottom: 1rem;
+}
+
+.card{
+    background-color: rgb(65, 170, 65);
+}
